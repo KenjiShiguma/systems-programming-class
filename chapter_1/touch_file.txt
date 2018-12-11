@@ -1,0 +1,4 @@
+cd is to Change Directory
+touch is to create a file
+^ stands for CTRL
+

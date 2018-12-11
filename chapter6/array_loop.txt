@@ -1,0 +1,7 @@
+#!/bin/bash
+# declare an array called array and define 3 values
+array=( one, two, three )
+for i in "${array[*]}" #[@] will access all elements and print in a column
+do
+        echo $i
+done

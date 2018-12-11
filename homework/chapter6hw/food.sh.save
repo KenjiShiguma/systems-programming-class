@@ -1,0 +1,8 @@
+#!/bin/bash
+declare -a myFoods
+myFoods[0 = "Pizza"
+myFoods[1] = "Burgers"
+myFoods[2] = "Pepsi"
+myFoods[3] = "Coke"
+
+echo "The script name is $0"

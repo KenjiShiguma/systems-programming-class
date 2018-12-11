@@ -1,0 +1,18 @@
+Sun Oct 22 20:35:24 EDT 2017
+0
+bkgd.sh
+bs.sh
+chapter_1
+chapter_3
+chapter_4
+chapter5
+file_dir
+home.sorted
+homework
+homework1
+LOL.txt
+mid_term_test
+mkdir_example
+output.txt
+perlExample
+/home/mitchell

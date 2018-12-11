@@ -1,0 +1,2 @@
+cat is another way to create text files, "given text" >> 
+pwd

@@ -1,0 +1,30 @@
+#!/bin/bash
+
+function multiply
+{
+
+echo "This function multiplies two numbers..."
+echo "Enter the first number: "
+read num1
+echo "Enter the second number: "
+read num2
+product=num1*num2
+echo "The product of ${num1} x ${num2} is: ${product}"
+
+declare -i num1
+declare -i num2
+declare -i product
+
+}
+
+declare -i num1
+declare -i num2
+declare -i product
+
+echo "This function multiplies two numbers..."
+echo "Enter the first number: "
+read num1
+echo "Enter the second number: "
+read num2
+product=num1*num2
+echo "The product of ${num1} x ${num2} is: ${product}"

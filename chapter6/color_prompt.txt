@@ -1,0 +1,20 @@
+Command: export PS1="\e[0;31m[\u@\h \W]\$ \e[m" 
+
+Color Codes
+Black	0;30
+Blue	0;34
+Green	0;32
+Cyan	0;36
+Red	0;31
+Purple	0;35
+Brown	0;33
+Blue	0;34
+Green	0;32
+Cyan	0;36
+Red	0;31
+Purple	0;35
+Brown	0;33
+
+Replace digit 0 with 1 to get a  lighter color version.
+
+

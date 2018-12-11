@@ -1,0 +1,18 @@
+   /* param_match.c */
+   /* Mike Szocki */
+
+   #include <stdio.h>
+
+   void showme( int a, int b );
+
+   void main()
+   {
+     int x = 1, y = 100;
+     showme( x, y );
+   }
+
+   void showme( int a, int b )
+   {
+     printf( "a=%d  b=%d\n", a, b );
+   }
+

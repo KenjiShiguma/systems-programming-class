@@ -1,0 +1,3 @@
+echo "The name of the command executing Script A is: " 
+echo "Here is the PID of Script A: 
+ $$"
